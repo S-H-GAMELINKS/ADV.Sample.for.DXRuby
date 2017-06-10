@@ -1,59 +1,59 @@
-QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+DXRuby ADVã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ 
+ã€€ã€€ã€€ã€€ã€€
+ãƒãƒ¼ã‚¸ãƒ§ãƒ³ 1.00
 
-DXRuby ADVƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€
-@@@@@
-ƒo[ƒWƒ‡ƒ“ 1.00
+å‹•ä½œç’°å¢ƒã€€Windows 10 Pro
+	ãƒ¡ãƒ¢ãƒªã€€50MBä»¥ä¸Š
 
-“®ìŠÂ‹«@Windows 10 
+é–‹ç™ºç’°å¢ƒã€€Ruby 2.3.3(32bit) + DXRuby 1.4.5
 
-	  ƒƒ‚ƒŠ@50MBˆÈã
+åˆ¶ä½œ GAMELINKSã€€ã€€ã€€ã€€ã€€
 
-ŠJ”­ŠÂ‹«@Ruby 2.3.3(32bit) + DXRuby 1.4.5
-
-§ì GAMELINKS@@@@@
-QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿
 
 
-[–ÆÓŽ–€]
+[å…è²¬äº‹é …]
 
-–{ƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€‚Í–³ž‚Å‚²—˜—p‚¢‚½‚¾‚¯‚Ü‚·B
+æœ¬ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã¯ç„¡å„Ÿã§ã”åˆ©ç”¨ã„ãŸã ã‘ã¾ã™ã€‚
 
-‚Ü‚½A’˜ìŒ ‚ÍGAMELINKS‚É‚ ‚è‚Ü‚·B
+ã¾ãŸã€è‘—ä½œæ¨©ã¯GAMELINKSã«ã‚ã‚Šã¾ã™ã€‚
 
-–{ƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€‚É•s”õ‚ª‚ ‚Á‚Ä‚àAGAMELINKS‚Í‚»‚ê‚ð’ù³‚·‚é‹`–±‚ð•‰‚¢‚Ü‚¹‚ñB
+æœ¬ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã«ä¸å‚™ãŒã‚ã£ã¦ã‚‚ã€GAMELINKSã¯ãã‚Œã‚’è¨‚æ­£ã™ã‚‹ç¾©å‹™ã‚’è² ã„ã¾ã›ã‚“ã€‚
 
-–{ƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€‚ðŽg—p‚µ‚½‚±‚Æ‚É‚æ‚Á‚Ä¶‚¶‚½”@‰½‚È‚é‘¹ŠQ‚à
+æœ¬ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚’ä½¿ç”¨ã—ãŸã“ã¨ã«ã‚ˆã£ã¦ç”Ÿã˜ãŸå¦‚ä½•ãªã‚‹æå®³ã‚‚
 
-GAMELINKS‚ÍŠÖ’m’v‚µ‚Ü‚¹‚ñBŽ©ŒÈÓ”C‚É‚Ä‚²—˜—p‚­‚¾‚³‚¢B
+GAMELINKSã¯é–¢çŸ¥è‡´ã—ã¾ã›ã‚“ã€‚è‡ªå·±è²¬ä»»ã«ã¦ã”åˆ©ç”¨ãã ã•ã„ã€‚
 
-QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+ã¾ãŸãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã¯ã€MITãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã¨ãªã‚Šã¾ã™ã€‚
+
+ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿ï¼¿
 
 
-[ŽÓŽ«]
-–{ƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€‚ÍA
+[è¬è¾ž]
+æœ¬ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã¯ã€
 
-ƒI[ƒvƒ“ƒ\[ƒX‚È“®“IŒ¾ŒêuRubyv:https://www.ruby-lang.org/ja/
+ã‚ªãƒ¼ãƒ—ãƒ³ã‚½ãƒ¼ã‚¹ãªå‹•çš„è¨€èªžã€ŒRubyã€:https://www.ruby-lang.org/ja/
 
-WindowsƒQ[ƒ€ƒ‰ƒCƒuƒ‰ƒŠuDXRubyv:http://dxruby.osdn.jp/
+Windowsã‚²ãƒ¼ãƒ ãƒ©ã‚¤ãƒ–ãƒ©ãƒªã€ŒDXRubyã€:http://dxruby.osdn.jp/
 
-‚É‚Ä§ì‚³‚ê‚Ä‚¢‚Ü‚·B
+ã«ã¦åˆ¶ä½œã•ã‚Œã¦ã„ã¾ã™ã€‚
 
-‚±‚Ìê‚ðŽØ‚è‚ÄŠ´ŽÓ\‚µã‚°‚Ü‚·B
+ã“ã®å ´ã‚’å€Ÿã‚Šã¦æ„Ÿè¬ç”³ã—ä¸Šã’ã¾ã™ã€‚
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•
 
-[ƒTƒ|[ƒg]
+[ã‚µãƒãƒ¼ãƒˆ]
 
 mail:gamelinks007@gmail.com
 
-–{ƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€‚Ì—˜—p‚ÉŠÖ‚µ‚ÄŽ¿–â‚È‚Ç‚²‚´‚¢‚Ü‚µ‚½‚çã‹L‚ÌƒAƒhƒŒƒX‚Ü‚Å
+æœ¬ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã®åˆ©ç”¨ã«é–¢ã—ã¦è³ªå•ãªã©ã”ã–ã„ã¾ã—ãŸã‚‰ä¸Šè¨˜ã®ã‚¢ãƒ‰ãƒ¬ã‚¹ã¾ã§
 
-‚²ˆê•ñ‚­‚¾‚³‚¢‚Ü‚·‚æ‚¤‚¨Šè‚¢‚¢‚½‚µ‚Ü‚·B
+ã”ä¸€å ±ãã ã•ã„ã¾ã™ã‚ˆã†ãŠé¡˜ã„ã„ãŸã—ã¾ã™ã€‚
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•â€•
 
-XV—š—ð
+æ›´æ–°å±¥æ­´
 
-2017/06/10	ƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€‚Æ‚µ‚ÄƒŠƒŠ[ƒXŠJŽn ver 1.00
+2017/06/10	ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã¨ã—ã¦ãƒªãƒªãƒ¼ã‚¹é–‹å§‹ ver 1.00
