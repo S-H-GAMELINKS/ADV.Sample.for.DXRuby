@@ -18,7 +18,7 @@ end
 #マップ描画メソッド(メイン)
 def map(font, messagebox, flag)
 
-	map, ap1, ap2, ap3, ap4, ap5, ap6, map_font = map_load()
+	map, ap1, ap2, ap3, ap4, ap5, ap6, map_font = map_load
 
 	Input.mouse_enable=(false)
 

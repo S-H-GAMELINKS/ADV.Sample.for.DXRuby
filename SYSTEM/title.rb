@@ -1,6 +1,7 @@
 # encoding: shift_jis
 
-def title(mouse, font, messagebox, flag)
+#タイトル用オブジェクト生成
+def title_object
 
 	#タイトル文字
 	title = Sprite.new(0, 0, Image.load("DATA/BG/TITLE.png"))
@@ -10,7 +11,14 @@ def title(mouse, font, messagebox, flag)
 	load = Sprite.new(490, 90, Image.new(100, 30, C_DEFAULT))
 	quit = Sprite.new(490, 150, Image.new(100, 30, C_DEFAULT))
 
-	flag_temp = flag
+	return title, start, load, quit
+end
+
+#タイトルメニューメソッド
+def title(mouse, font, messagebox, flag)
+
+	#タイトル用オブジェクト生成
+	title, start, load, quit = title_object
 
 	#メインループ
 	Window.loop do
@@ -37,8 +45,7 @@ def title(mouse, font, messagebox, flag)
 
 				#左クリック時の処理
 				if Input.mouse_push?(M_LBUTTON) then
-					flag = savedata_load(font, mouse, messagebox)
-					return flag
+					return flag = savedata_menu(font, mouse, messagebox, flag, 1)
 				end
 				
 			#QUIT選択時の処理
@@ -53,11 +60,6 @@ def title(mouse, font, messagebox, flag)
 					if messagebox.Popup("ゲームを終了を終了しますか？", 10, "DXRuby ADVサンプル", 4 + 32 ) == 6 then
 						exit
 					end
-				end
-			else
-				if flag_temp != flag then
-					return flag
-					break
 				end
 		end
 
